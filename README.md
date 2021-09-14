@@ -8,7 +8,7 @@ _Estas instrucciones te permitirán obtener una copia del proyecto en funcionami
 
 ### Pre-requisitos 📋
 
-_Importante: necesitas tener en tu pc instalado el entorno de desarrolo NodeJs y Git_
+_Importante: necesitas tener en tu pc instalado el entorno de desarrolo NodeJs y Git._
 _Recomendable; tener algún IDE de texto como por ej: Visual Studio Code. Y alguna consola como GitBash para mas comodidad._ 
 
 ### Instalación 🔧
