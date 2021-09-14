@@ -1,0 +1,13 @@
+@media (min-width: 768px){
+    .note-x2{
+        display: grid;
+        grid-template-columns: 50% 50%;
+    }
+    .note-x2 .card-1 {
+        padding: 0px 7.5px 0px 15px;
+    }
+    .note-x2 .card-2 {
+        padding: 0px 15px 0px 7.5px;
+    }
+    
+}

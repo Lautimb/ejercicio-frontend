@@ -1,0 +1,25 @@
+@media (min-width:768px){
+    .note-x6{
+        display: grid; 
+        grid-template-columns: 1fr 1fr 1fr;
+        margin-bottom: 36px;
+    }
+    .note-x6 .title-container{
+        grid-column: 1/4;
+    }
+    .note-x6 .card-author{
+        height: 100%;
+        margin: 16px 0px 0px 0px;
+    }
+    .note-x6 .avatar-container{
+        display: flex;
+        justify-self: flex-end;
+    }
+    .note-x6 .card-1 , .note-x6 .card-2, .note-x6 .card-3, .note-x6 .card-4, .note-x6 .card-5, .note-x6 .card-6{
+        margin: 10px;
+    }
+
+    .note-x6 .card-note p{
+        margin-top: 10px;
+    }
+}
