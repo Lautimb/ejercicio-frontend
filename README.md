@@ -22,7 +22,7 @@ _Recomendable; tener algún IDE de texto como por ej: Visual Studio Code. Y algu
 
 ## Construido con 🛠️
 
-* [NodeJs] (https://nodejs.org/es/) - Entorno de ejecución para Javascript - Version recomendada LTS.
+* [Node Js] (https://nodejs.org/es/) - Entorno de ejecución para Javascript - Version recomendada LTS.
 * [React js](https://es.reactjs.org/) - Libreria utilizada para construir la interfaces de usuario - Creado con - npx create-react-app -
 * [Css](https://css-tricks.com/) - Hoja de estilo en cascada, lenguaje utilizado para definir la presentación de un documento estructurado escrito en HTML y derivados.
 * [VSCode] (https://code.visualstudio.com/) - Editor de texto utilizado para codificar la app.
